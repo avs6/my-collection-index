@@ -285,9 +285,163 @@ python scripts/update_from_stars.py --user <your_github_username>
 
 
 <!-- AUTO-MANAGED:START -->
-<!-- Sections between AUTO-MANAGED markers may be overwritten by scripts/update_from_stars.py -->
+### ⭐ Auto-curated: Agentic AI
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `Significant-Gravitas/AutoGPT` |  | https://github.com/Significant-Gravitas/AutoGPT |
+| `open-webui/open-webui` |  | https://github.com/open-webui/open-webui |
+| `jlowin/fastmcp` |  | https://github.com/jlowin/fastmcp |
+| `cloudify-community/blueprint-examples` |  | https://github.com/cloudify-community/blueprint-examples |
+| `avs6/agenticAI_with_langgraph` |  | https://github.com/avs6/agenticAI_with_langgraph |
+| `avs6/agenticAILanggraph` |  | https://github.com/avs6/agenticAILanggraph |
+
+### ⭐ Auto-curated: GenAI
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `ShishirPatil/gorilla` |  | https://github.com/ShishirPatil/gorilla |
+| `georgezouq/awesome-ai-in-finance` |  | https://github.com/georgezouq/awesome-ai-in-finance |
+| `databricks-academy/large-language-models` |  | https://github.com/databricks-academy/large-language-models |
+
+### ⭐ Auto-curated: Infra / Kubernetes / Docker
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `kelseyhightower/kubernetes-the-hard-way` |  | https://github.com/kelseyhightower/kubernetes-the-hard-way |
+| `derailed/k9s` |  | https://github.com/derailed/k9s |
+| `ahmetb/kubectx` |  | https://github.com/ahmetb/kubectx |
+| `kodekloudhub/certified-kubernetes-administrator-course` |  | https://github.com/kodekloudhub/certified-kubernetes-administrator-course |
+| `mmumshad/kubernetes-the-hard-way` |  | https://github.com/mmumshad/kubernetes-the-hard-way |
+
+### ⭐ Auto-curated: Trading / Quant
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `abhiwalia15/AI-for-Finance-Stocks-real-time-analysis-` |  | https://github.com/abhiwalia15/AI-for-Finance-Stocks-real-time-analysis- |
+| `ambujalpha/InvestSmart-STOCK-MARKET-PREDICTOR` |  | https://github.com/ambujalpha/InvestSmart-STOCK-MARKET-PREDICTOR |
+| `avs6/algorithmic-trading` |  | https://github.com/avs6/algorithmic-trading |
+
+### ⭐ Auto-curated: Datasets
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `selva86/datasets` |  | https://github.com/selva86/datasets |
+| `avs6/datasets` |  | https://github.com/avs6/datasets |
+
+### ⭐ Auto-curated: Coding Examples
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `geekcomputers/Python` |  | https://github.com/geekcomputers/Python |
+
+### ⭐ Auto-curated: Automation
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `InstaPy/InstaPy` |  | https://github.com/InstaPy/InstaPy |
+| `autotag-dev/autotag` |  | https://github.com/autotag-dev/autotag |
+
+### ⭐ Auto-curated: Visualization
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `Mouradost/STGM` |  | https://github.com/Mouradost/STGM |
+| `iDataVisualizationLab/HPCC` |  | https://github.com/iDataVisualizationLab/HPCC |
+
+### ⭐ Auto-curated: Tools
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `donnemartin/system-design-primer` |  | https://github.com/donnemartin/system-design-primer |
+| `karpathy/nanoGPT` |  | https://github.com/karpathy/nanoGPT |
+| `karpathy/micrograd` |  | https://github.com/karpathy/micrograd |
+| `EleutherAI/pythia` |  | https://github.com/EleutherAI/pythia |
+| `aerophile/awesome-deepfakes` |  | https://github.com/aerophile/awesome-deepfakes |
+| `buildwithmalik/PythonCheatSheet` |  | https://github.com/buildwithmalik/PythonCheatSheet |
+| `ml-tooling/best-of-jupyter` |  | https://github.com/ml-tooling/best-of-jupyter |
+| `dell/iDRAC-Redfish-Scripting` |  | https://github.com/dell/iDRAC-Redfish-Scripting |
+| `augustogoulart/awesome-pytest` |  | https://github.com/augustogoulart/awesome-pytest |
+| `myriadrf/LimeSuite` |  | https://github.com/myriadrf/LimeSuite |
+| `stefan-jansen/python-algorithms` |  | https://github.com/stefan-jansen/python-algorithms |
+| `boku7/Nobelium-PdfDLRunAesShellcode` |  | https://github.com/boku7/Nobelium-PdfDLRunAesShellcode |
+| `dell/iDRAC-Telemetry-Scripting` |  | https://github.com/dell/iDRAC-Telemetry-Scripting |
+| `dijonkitchen/Set-TDD` |  | https://github.com/dijonkitchen/Set-TDD |
+| `akash-mitra/nsepy` |  | https://github.com/akash-mitra/nsepy |
+| `dhineshns/tdd-set-1` |  | https://github.com/dhineshns/tdd-set-1 |
+| `IshaGirdhar/jd` |  | https://github.com/IshaGirdhar/jd |
+| `avs6/tdd-set-1` |  | https://github.com/avs6/tdd-set-1 |
+| `avs6/Set-TDD` |  | https://github.com/avs6/Set-TDD |
 <!-- AUTO-MANAGED:END -->
 
 <!-- AUTO-MANAGED:START -->
-<!-- Sections between AUTO-MANAGED markers may be overwritten by scripts/update_from_stars.py -->
+### ⭐ Auto-curated: Agentic AI
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `Significant-Gravitas/AutoGPT` |  | https://github.com/Significant-Gravitas/AutoGPT |
+| `open-webui/open-webui` |  | https://github.com/open-webui/open-webui |
+| `jlowin/fastmcp` |  | https://github.com/jlowin/fastmcp |
+| `cloudify-community/blueprint-examples` |  | https://github.com/cloudify-community/blueprint-examples |
+| `avs6/agenticAI_with_langgraph` |  | https://github.com/avs6/agenticAI_with_langgraph |
+| `avs6/agenticAILanggraph` |  | https://github.com/avs6/agenticAILanggraph |
+
+### ⭐ Auto-curated: GenAI
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `ShishirPatil/gorilla` |  | https://github.com/ShishirPatil/gorilla |
+| `georgezouq/awesome-ai-in-finance` |  | https://github.com/georgezouq/awesome-ai-in-finance |
+| `databricks-academy/large-language-models` |  | https://github.com/databricks-academy/large-language-models |
+
+### ⭐ Auto-curated: Infra / Kubernetes / Docker
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `kelseyhightower/kubernetes-the-hard-way` |  | https://github.com/kelseyhightower/kubernetes-the-hard-way |
+| `derailed/k9s` |  | https://github.com/derailed/k9s |
+| `ahmetb/kubectx` |  | https://github.com/ahmetb/kubectx |
+| `kodekloudhub/certified-kubernetes-administrator-course` |  | https://github.com/kodekloudhub/certified-kubernetes-administrator-course |
+| `mmumshad/kubernetes-the-hard-way` |  | https://github.com/mmumshad/kubernetes-the-hard-way |
+
+### ⭐ Auto-curated: Trading / Quant
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `abhiwalia15/AI-for-Finance-Stocks-real-time-analysis-` |  | https://github.com/abhiwalia15/AI-for-Finance-Stocks-real-time-analysis- |
+| `ambujalpha/InvestSmart-STOCK-MARKET-PREDICTOR` |  | https://github.com/ambujalpha/InvestSmart-STOCK-MARKET-PREDICTOR |
+| `avs6/algorithmic-trading` |  | https://github.com/avs6/algorithmic-trading |
+
+### ⭐ Auto-curated: Datasets
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `selva86/datasets` |  | https://github.com/selva86/datasets |
+| `avs6/datasets` |  | https://github.com/avs6/datasets |
+
+### ⭐ Auto-curated: Coding Examples
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `geekcomputers/Python` |  | https://github.com/geekcomputers/Python |
+
+### ⭐ Auto-curated: Automation
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `InstaPy/InstaPy` |  | https://github.com/InstaPy/InstaPy |
+| `autotag-dev/autotag` |  | https://github.com/autotag-dev/autotag |
+
+### ⭐ Auto-curated: Visualization
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `Mouradost/STGM` |  | https://github.com/Mouradost/STGM |
+| `iDataVisualizationLab/HPCC` |  | https://github.com/iDataVisualizationLab/HPCC |
+
+### ⭐ Auto-curated: Tools
+| Repo | Why it matters (fill later) | Link |
+|---|---|---|
+| `donnemartin/system-design-primer` |  | https://github.com/donnemartin/system-design-primer |
+| `karpathy/nanoGPT` |  | https://github.com/karpathy/nanoGPT |
+| `karpathy/micrograd` |  | https://github.com/karpathy/micrograd |
+| `EleutherAI/pythia` |  | https://github.com/EleutherAI/pythia |
+| `aerophile/awesome-deepfakes` |  | https://github.com/aerophile/awesome-deepfakes |
+| `buildwithmalik/PythonCheatSheet` |  | https://github.com/buildwithmalik/PythonCheatSheet |
+| `ml-tooling/best-of-jupyter` |  | https://github.com/ml-tooling/best-of-jupyter |
+| `dell/iDRAC-Redfish-Scripting` |  | https://github.com/dell/iDRAC-Redfish-Scripting |
+| `augustogoulart/awesome-pytest` |  | https://github.com/augustogoulart/awesome-pytest |
+| `myriadrf/LimeSuite` |  | https://github.com/myriadrf/LimeSuite |
+| `stefan-jansen/python-algorithms` |  | https://github.com/stefan-jansen/python-algorithms |
+| `boku7/Nobelium-PdfDLRunAesShellcode` |  | https://github.com/boku7/Nobelium-PdfDLRunAesShellcode |
+| `dell/iDRAC-Telemetry-Scripting` |  | https://github.com/dell/iDRAC-Telemetry-Scripting |
+| `dijonkitchen/Set-TDD` |  | https://github.com/dijonkitchen/Set-TDD |
+| `akash-mitra/nsepy` |  | https://github.com/akash-mitra/nsepy |
+| `dhineshns/tdd-set-1` |  | https://github.com/dhineshns/tdd-set-1 |
+| `IshaGirdhar/jd` |  | https://github.com/IshaGirdhar/jd |
+| `avs6/tdd-set-1` |  | https://github.com/avs6/tdd-set-1 |
+| `avs6/Set-TDD` |  | https://github.com/avs6/Set-TDD |
 <!-- AUTO-MANAGED:END -->
