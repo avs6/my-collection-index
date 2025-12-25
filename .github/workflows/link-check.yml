@@ -1,0 +1,30 @@
+name: Link Check
+
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "0 9 * * 1" # Mondays 09:00 UTC
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link check (README + markdown)
+        uses: lycheeverse/lychee-action@v1.10.0
+        with:
+          args: >
+            --verbose
+            --no-progress
+            --accept 200,206,429
+            --exclude-mail
+            --exclude-loopback
+            --max-concurrency 8
+            --timeout 20
+            --retry-wait-time 5
+            --max-retries 3
+            "**/*.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
