@@ -283,6 +283,11 @@ python scripts/update_from_stars.py --user <your_github_username>
 
 ---
 
+
+<!-- AUTO-MANAGED:START -->
+<!-- Sections between AUTO-MANAGED markers may be overwritten by scripts/update_from_stars.py -->
+<!-- AUTO-MANAGED:END -->
+
 <!-- AUTO-MANAGED:START -->
 <!-- Sections between AUTO-MANAGED markers may be overwritten by scripts/update_from_stars.py -->
 <!-- AUTO-MANAGED:END -->
