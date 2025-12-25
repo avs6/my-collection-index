@@ -15,7 +15,16 @@
 
 ---
 ## 📌 About Myself
-👉 [About Me](ABOUT.md)
+### 👋 Hi, I’m Abi
+
+I’m a **systems-first technologist** working across **Agentic AI, GenAI infrastructure, and cloud-native platforms**.
+
+I focus on building **observable, reproducible, production-grade systems** — not demos.
+My interests span **LLM/agent architectures, MLOps, Kubernetes/GPU infrastructure, and event-driven trading systems**.
+
+> Architecture outlives hype. Signal over noise.
+ 
+[About Me](ABOUT.md)
 
 ---
 ## ✅ Curation Rules
